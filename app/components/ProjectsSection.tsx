@@ -40,7 +40,7 @@ const projectsByCity: ProjectsByCity = {
       id: 2,
       type: "UPCOMING",
       image: "/images/shekhar.jpg",
-      title: "Shekhar",
+      title: "Shekhar Unity",
       description: "Elevating Modern Living",
       hasImage: true
     }
